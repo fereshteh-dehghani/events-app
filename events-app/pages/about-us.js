@@ -1,5 +1,5 @@
-const Page = () => {
-  return <h1>About Us Page</h1>;
+const AboutUsPage = () => {
+  return <h1>About Us page</h1>;
 };
 
-export default Page;
+export default AboutUsPage;
