@@ -1,4 +1,5 @@
 import Image from 'next/image';
+import Link from 'next/link';
 
 const EventsCatpage = ({ data }) => {
   return (
@@ -10,11 +11,9 @@ const EventsCatpage = ({ data }) => {
             href={`/events/${ev.city}/${ev.id}`}
             passHref={true}
           >
-            <a>
-              <Image src={ev.image} width={300} height={300} alt={ev.title} />
-              <h2>{ev.title}</h2>
-              <p>{ev.description}</p>
-            </a>
+            <Image src={ev.image} width={300} height={300} alt={ev.title} />
+            <h2>{ev.title}</h2>
+            <p>{ev.description}</p>
           </Link>
         ))}
       </div>
