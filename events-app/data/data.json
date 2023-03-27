@@ -1,13 +1,18 @@
-{"events_categories":
-[{"id":"london",
+{
+"events_categories":
+[
+ {
+"id":"london",
 "title":"Events in London",
 "description":"Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem",
 "image":"https://images.unsplash.com/photo-1533929736458-ca588d08c8be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"},
-{"id":"san-francisco",
+{
+    "id":"san-francisco",
 "title":"Events in San Francisco",
 "description":"corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate.",
 "image":"https://images.unsplash.com/photo-1506146332389-18140dc7b2fb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"},
-{"id":"barcelona",
+{
+    "id":"barcelona",
 "title":"Events in Barcelona",
 "description":"Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
 "image":"https://images.unsplash.com/photo-1579282240050-352db0a14c21?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=652&q=80"}],
@@ -84,11 +89,46 @@
                             "id":"san-francisco-opera---san-francisco-tickets",
                         "title":"San Francisco Opera - San Francisco Tickets",
                         "city":"san-francisco",
-                        "description":"Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.","image":"https://images.unsplash.com/photo-1580809361436-42a7ec204889?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80","emails_registered":[]},{"id":"concert-christian-löffler-+-detect-ensemble",
+                        "description":"Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+                        "image":"https://images.unsplash.com/photo-1580809361436-42a7ec204889?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
+                        "emails_registered":[]
+                        },
+                        {
+                            "id":"concert-christian-löffler-+-detect-ensemble",
                         "title":"Concert Christian Löffler + Detect Ensemble",
                         "city":"barcelona",
                         "description":"Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
                         "image":"https://images.unsplash.com/photo-1478147427282-58a87a120781?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-                        "emails_registered":["alicia@gmail.com","monica@gmail.com"]},{"id":"the-halloween-house-party","title":"The Halloween House Party","city":"barcelona","description":"Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.","image":"https://images.unsplash.com/photo-1587407627257-27b7127c868c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80","emails_registered":["alicia@gmail.com","monica@gmail.com","david@yahoo.com","claire@ss.com"]},{"id":"international-conference-on-industrial-design","title":"International Conference on Industrial Design","city":"barcelona","description":"Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.","image":"https://images.unsplash.com/photo-1475721027785-f74eccf877e2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80","emails_registered":["alicia@gmail.com","monica@gmail.com"]},{"id":"world-congress-2022---barcelona","title":"World Congress 2022 - Barcelona","city":"barcelona","description":"Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.","image":"https://images.unsplash.com/photo-1540575467063-178a50c2df87?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80","emails_registered":["alicia@gmail.com","monica@gmail.com"]},{"id":"riskminds-international","title":"RiskMinds International","city":"barcelona","description":"Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-                        "image":"https://images.unsplash.com/photo-1591115765373-5207764f72e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-"emails_registered":["alicia@gmail.com","monica@gmail.com"]}]}
+                        "emails_registered":["alicia@gmail.com","monica@gmail.com"]
+                        },{
+                            "id":"the-halloween-house-party",
+                            "title":"The Halloween House Party",
+                            "city":"barcelona",
+                            "description":"Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+                            "image":"https://images.unsplash.com/photo-1587407627257-27b7127c868c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                            "emails_registered":["alicia@gmail.com","monica@gmail.com","david@yahoo.com","claire@ss.com"]},
+                            {
+                                "id":"international-conference-on-industrial-design",
+                            "title":"International Conference on Industrial Design",
+                            "city":"barcelona",
+                            "description":"Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+                            "image":"https://images.unsplash.com/photo-1475721027785-f74eccf877e2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                            "emails_registered":["alicia@gmail.com","monica@gmail.com"]
+                            },{
+                                "id":"world-congress-2022---barcelona",
+                                "title":"World Congress 2022 - Barcelona",
+                                "city":"barcelona",
+                                "description":"Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+                                "image":"https://images.unsplash.com/photo-1540575467063-178a50c2df87?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                                "emails_registered":["alicia@gmail.com","monica@gmail.com"]
+                                },
+                                {
+                                    "id":"riskminds-international",
+                                    "title":"RiskMinds International",
+                                    "city":"barcelona",
+                                    "description":"Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+                                   "image":"https://images.unsplash.com/photo-1591115765373-5207764f72e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                                    "emails_registered":["alicia@gmail.com","monica@gmail.com"]
+                                }
+                                ]
+                            }
